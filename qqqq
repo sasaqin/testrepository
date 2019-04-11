@@ -1,0 +1,15 @@
+[Desktop Entry]
+Name=firefox
+Comment=firefox
+Exec=/opt/firefox/firefox
+Icon=/opt/firefox/browser/chrome/icons/default/default128.png
+Terminal=false
+Type=Application
+Categories=Application;
+Encoding=UTF-8
+StartupNotify=true 
+--------------------- 
+作者：dale丶无双 
+来源：CSDN 
+原文：https://blog.csdn.net/weixin_39278265/article/details/82286724 
+版权声明：本文为博主原创文章，转载请附上博文链接！
